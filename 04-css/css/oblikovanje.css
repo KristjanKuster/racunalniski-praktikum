@@ -50,6 +50,12 @@ body {
         width: 100%;
         height: auto;
     }
+
+    .slika p:last-child
+    {
+        font-size: 0.8em;
+        margin-top: 1px;
+    }
 }
 
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
